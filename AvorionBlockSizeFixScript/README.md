@@ -28,6 +28,7 @@ This script scans a file, detects block dimensions (axis) that are below the def
 Some designers created files for Avorion Workshop that are no longer supported due to new requirements on minimum axis size for all blocks:
 - 0.00000001
 - 0.00999999
+
 These values will:
 - Make the file unable to be loaded on a server that imposes minimum size limits
 - Prevent resizing blocks
